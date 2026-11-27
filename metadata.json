@@ -1,0 +1,8 @@
+{
+  "name": "Remix EduSchedule - Thời Khóa Biểu Cá Nhân",
+  "description": "Ứng dụng quản lý lịch học, thời khóa biểu và bài tập cá nhân trực quan với chế độ xem theo tuần, đồng hồ tập trung Pomodoro và nhắc hạn bài tập.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

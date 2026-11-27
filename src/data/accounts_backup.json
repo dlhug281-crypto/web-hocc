@@ -1,0 +1,62 @@
+{
+  "abcdf": {
+    "id": "acc_seed_abcdf",
+    "username": "abcdf",
+    "password": "123",
+    "name": "ABCD",
+    "syncCode": "ABC10A",
+    "createdAt": "2026-11-01T00:00:00.000Z",
+    "updatedAt": "2026-11-05T00:00:00.000Z",
+    "data": {
+      "slots": [],
+      "subjects": [],
+      "tasks": [],
+      "profile": {
+        "name": "ABCD",
+        "schoolName": "Trường THPT Vĩnh Thạnh",
+        "className": "Lớp 10A1 · Buổi Sáng",
+        "targetGoal": "Học kỳ I (2026 - 2027) · Tuần 9"
+      }
+    }
+  },
+  "dang_le_hung": {
+    "id": "acc_seed_dlhung",
+    "username": "dang_le_hung",
+    "password": "123",
+    "name": "Đặng Lê Hùng",
+    "syncCode": "DLH10A",
+    "createdAt": "2026-11-01T00:00:00.000Z",
+    "updatedAt": "2026-11-05T00:00:00.000Z",
+    "data": {
+      "slots": [],
+      "subjects": [],
+      "tasks": [],
+      "profile": {
+        "name": "Đặng Lê Hùng",
+        "schoolName": "Trường THPT Vĩnh Thạnh",
+        "className": "Lớp 10A1 · Buổi Sáng",
+        "targetGoal": "Học kỳ I (2026 - 2027) · Tuần 9"
+      }
+    }
+  },
+  "test_student": {
+    "id": "acc_1793875432354_cbguo",
+    "username": "test_student",
+    "password": "456",
+    "name": "Nguyễn Văn Test",
+    "syncCode": "RP8AN7",
+    "createdAt": "2026-11-05T10:43:52.354Z",
+    "updatedAt": "2026-11-05T10:43:52.354Z",
+    "data": {
+      "slots": [],
+      "subjects": [],
+      "tasks": [],
+      "profile": {
+        "name": "Nguyễn Văn Test",
+        "schoolName": "Trường THPT Vĩnh Thạnh",
+        "className": "Lớp 10A1 · Buổi Sáng",
+        "targetGoal": "Học kỳ I (2026 - 2027) · Tuần 9"
+      }
+    }
+  }
+}

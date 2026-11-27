@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "EduSchedule 10A1 - THPT Vĩnh Thạnh",
+  "short_name": "TKB 10A1",
+  "description": "Thời khóa biểu trực tuyến, bài tập & đề cương học tập Lớp 10A1 THPT Vĩnh Thạnh. Tác giả: Đặng Lê Hùng.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f172a",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
